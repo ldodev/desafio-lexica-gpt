@@ -1,0 +1,1 @@
+# desafio-lexica-gpt
