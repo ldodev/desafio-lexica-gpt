@@ -1,4 +1,4 @@
-# Projeto - Artigos Técnicos com ChatGPT e Lexica.art
+# Projeto DIO - Artigos com ChatGPT e Lexica.art
 
 Vamos criar uma projeto utilizando o chatGPT para criar um artigo, e o lexica.art para gerar as imagens com inteligência artificial.
 
